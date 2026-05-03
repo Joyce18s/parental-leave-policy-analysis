@@ -72,7 +72,7 @@ The analysis includes:
 
 \* Paternity leave data is missing for many companies
 
-\* Leave policies vary significantly across industries
+\* Leave policies vary significantly across industries.
 
 
 

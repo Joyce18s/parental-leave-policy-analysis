@@ -2,7 +2,7 @@
 
 
 
-&#x20;📌 Objective
+## Objective
 
 
 
@@ -10,7 +10,7 @@ The goal of this project is to analyze parental leave policies across companies 
 
 
 
-&#x20;📊 Dataset
+## Dataset
 
 
 
@@ -30,19 +30,19 @@ The dataset contains company-wise information about:
 
 
 
-&#x20;🧹 Data Cleaning
+## 🧹 Data Cleaning
 
 
 
 \* Checked missing values
 
-\* Removed rows with missing industry data
+\* Removed blank columns
 
 \* Identified large gaps in paternity leave reporting
 
 
 
-&#x20;📈 Exploratory Data Analysis (EDA)
+## 📈 Exploratory Data Analysis (EDA)
 
 
 
@@ -62,7 +62,7 @@ The analysis includes:
 
 
 
-&#x20;🔍 Key Insights
+##🔍 Key Insights
 
 
 
@@ -76,7 +76,7 @@ The analysis includes:
 
 
 
-&#x20;🛠️ Tools Used
+## 🛠️ Tools Used
 
 
 
@@ -94,7 +94,7 @@ The analysis includes:
 
 
 
-&#x20;📁 Files
+## 📁 Files
 
 
 

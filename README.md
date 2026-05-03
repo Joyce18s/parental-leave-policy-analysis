@@ -100,7 +100,7 @@ The analysis includes:
 
 \* `Analysis.ipynb` – Main analysis notebook
 
-\* `parental\\\_leave.csv` – Dataset
+\* `parental_leave.csv` – Dataset
 
-\* `data\\\_dictionary.csv` – Column descriptions
+\* `data_dictionary.csv` – Column descriptions
 
